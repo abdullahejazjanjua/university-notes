@@ -1,3 +1,3 @@
-# MM 101 and MM 141/101 Lab notes
+# GIKI Undergraduate Notes
 
-This repository contains comprehensive notes of material science that I created while studying at Ghulam Ishaq Khan Institute
+This repository contains comprehensive notes on all subjects I studied during my undergraduate studies at Ghulam Ishaq Khan Institute (GIKI). These notes cover a wide range of topics across different courses, including material science, computer science, and other subjects throughout my academic journey.
